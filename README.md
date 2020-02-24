@@ -1,10 +1,14 @@
-V1.0
+# V1.0
 
-#Installation Guide
+## Installation Guide
 
 No installation required, just launch the .exe
 
-#Warnings
+## Warnings
 
 It's only working on a local network at the moment but the online version is our next goal.
-It won't work with the same IP.
+
+It won't work with the same IP on this version.
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
